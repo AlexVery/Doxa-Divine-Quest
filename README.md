@@ -144,9 +144,9 @@ There is an in-game shop where players can buy equipment (sword, shield, healing
 
 </div>
 
-<div align="center">
+There is also an inventory where players can keep track of the items they currently own or use an item (for example a healing potion). Each item also comes with a decription.
 
-  There is also an inventory where players can keep track of the items they currently own or use an item (for example a healing potion).
+<div align="center">
 
   <p align="center">
     <img width="625" height="385" alt="Image" src="https://github.com/user-attachments/assets/c9164437-7fa8-4272-b0d8-3d3baa66b1e6" />
@@ -156,7 +156,7 @@ There is an in-game shop where players can buy equipment (sword, shield, healing
 
 </div>
 
-Players can pause the game by pressing "P" on their keyboard. The pause screen is seen in *Figure 13*. It includes two extra buttons (except *Resume*): *Settings* which includes two subpages seen in *Figure 14* and *Figure 15* (one for the "Basics" and the other for the "Texture" settings). 
+Players can pause the game by pressing "P" on their keyboard. The pause screen is seen in *Figure 13*. It includes two extra buttons (except *Resume*): *Settings* which includes two subpages seen in *Figure 14* and *Figure 15* (one for the "Basics" and the other for the "Texture" settings) and *Main Menu* which returns the player to the title screen. 
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Players can pause the game by pressing "P" on their keyboard. The pause screen i
 
 </div>
 
-In labyrinth mode the goal is to reach the exit after collecting all 3 keys. The keys can be found in the chests, which don't require unlocking. In the 2D mode players must move from the top right of the maze to the bottom left. In 3D mode there is an arrow indicating the direction players must follow to find the nearest chest and then the exit, along with a text specifying the distance between the main character and the chest/exit. 
+In labyrinth mode the goal is to reach the exit after collecting all 3 keys. The keys can be found in the chests, which don't require unlocking. In the 2D mode players must move from the top right of the maze to the bottom left. In 3D mode there is an arrow indicating the direction players must follow to find the nearest chest and then the exit. A text specifying the distance between the main character and the chest/exit is also included. 
 In labyrinth mode there are 3 difficulty levels:
 - Easy: just a normal and relatively small labyrinth
 - Normal: flying monsters spawn for each chest the players open (doesn't happen in 3D), while the maze is larger
@@ -204,7 +204,7 @@ In labyrinth mode there are 3 difficulty levels:
 
 </div>
 
-*Figure 17* - *Figure 19* showcase the 3D labyrinth mode. As seen in my Thesis on pg. 36 (*Figure 22*, *Figure 23*) the walls where not pixel art and felt disconnected from the overall design of the game. Along with the appearance there was another issue: the size of the image was large, because the the image was very sharp. Python is not a language that such issues can go unnoticed and therefore I needed to optimise my logic, so I instead created other images using [pixilart](https://www.pixilart.com/). I also added graphics settings (low, normal, high), so the 3D version works flawlessly on more PCs.
+*Figure 17* - *Figure 19* showcase the 3D labyrinth mode. As seen in my Thesis on pg. 36 (*Figure 22*, *Figure 23*) the walls where not pixel art and felt disconnected from the overall design of the game. Along with the appearance there was another issue: the size of the image was large, because the the image was very sharp. Python is not a language that lets such issues go unnoticed and therefore I needed to optimise my logic, so I instead created other images using [pixilart](https://www.pixilart.com/), which significantly improved the performance. I also added graphics settings (low, normal, high), so the 3D version works flawlessly on more PCs.
 
 <div align="center">
 
@@ -248,7 +248,7 @@ There is also a dedicated page for the credits/license of the game assets used. 
 
 </div>
 
-Another display of the UI's improvement is the *Settings* page accessed from the main menu (*Figure 21*) and in my Thesis on pg. 56 (*Figure 48*). In the first version there were settings that got completely removed (player's color - since the player now is an animated character). No sound settings were present, because it was added in the second version and the background was blank. 
+Another example of the UI's improvement is the *Settings* page accessed from the main menu (in my Thesis on pg. 56 (*Figure 48*) and in the second version in *Figure 21*). In the first version there were settings that got completely removed (player's color - since the player now is an animated character). No sound settings were present, because it was added in the second version and also the background was blank. The newer version is more user-friendly.
 
 <div align="center">
 
@@ -260,7 +260,7 @@ Another display of the UI's improvement is the *Settings* page accessed from the
 
 </div>
 
-The levels based on history and mythology try to balance the educational value and enjoyability of the game. In the start and during the level there are texts to explain the context and help players understand the setting (*Figure 22*). After enjoying the beatiful game named [Pentiment](https://www.playstation.com/en-gr/games/pentiment/) which features gorgeous game design and clever use of book animations, I thought I could incorporate a dictionary like book where players could seek important terms. These include significant historical figures, settings or deities. The searchable tearms are unterlined (*Figure 22*) and when clicked upon trigger a search on the dict-like book (*Figure 23*). 
+The levels based on history and mythology try to balance the educational value and enjoyability of the game. In the start and during these levels there are texts explaining the context and helping players understand the setting (*Figure 22*). After enjoying the beatiful game named [Pentiment](https://www.playstation.com/en-gr/games/pentiment/) which features gorgeous game design and clever use of book animations, I thought I could incorporate a dictionary like book where players could seek important terms. These include significant historical figures, settings or deities. The searchable tearms are unterlined (*Figure 22*) and when clicked upon trigger a search on the dict-like book (*Figure 23*). 
 
 <div align="center">
 
@@ -294,7 +294,7 @@ All battles come with an explanation of the tactic the players must follow to wi
 
 </div>
 
-This is how the *Marathon* level of the *History* levels is. The costumes and armors of the soldiers were colored according to what I found out after researching on the topic. For further reading on the topic please read my Thesis from pg. 57 - 59 (Section 5. 2. 10).   
+This is how the *Marathon* level of the *History* levels looks. The costumes and armors of the soldiers were modeled and colored according to what I found out after researching on the topic. For further reading on the topic please read my Thesis from pg. 57 - 59 (Section 5. 2. 10).   
 
 <div align="center">
 
@@ -307,4 +307,4 @@ This is how the *Marathon* level of the *History* levels is. The costumes and ar
 </div>
 
 If the game seems like fun, please feel free to download and rate the game!  
-Honest ratings and criticism is what helped me improve my game further.
+Honest ratings and criticism is what helped me improve my game further, so any help would be appreciated!
