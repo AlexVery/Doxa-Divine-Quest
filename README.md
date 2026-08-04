@@ -72,7 +72,7 @@ Players can use the "Z" keyboard key to zoom-in/-out of the game. This comes han
 - get the wall size (changeable by the player)
 - divide the width of the screen with the wall size
 
-If the wall size is too small, it is displayed tiny, but with this addition the problem is counter (something mentioned in the first version of the game).
+If the wall size is too small, the wall is displayed tiny, but with this addition the problem is countered (something mentioned as a drawback in the first version of the game).
 
 <div align="center">
 
