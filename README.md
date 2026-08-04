@@ -67,7 +67,7 @@ When users click on *Normal(2D)* the screen seen in *Figure 4* appears, explaini
 
 </div>
 
-Players can use the "Z" keyboard key to zoom-in/-out of the game. This comes handy especially in the normal and hard difficulty where the mazes get larger and the visibility gets worse. This happend because the maze is drawn like this: 
+Players can use the "Z" keyboard key to zoom-in/-out of the game. This comes handy especially in the normal and hard difficulty where the mazes get larger and the visibility gets worse. This happens because the maze is drawn like this: 
 - take the width of the window
 - get the wall size (changeable by the player)
 - divide the width of the screen with the wall size
