@@ -20,7 +20,7 @@ I got ispiration from [Doom using Python](https://www.youtube.com/watch?v=ECqUrT
 
 </div>
 
-I managed to translate the game into tha languages I know and then thanks to the help from close friends i managed to translate the game into the different languages seen in *Figure 2*.
+I managed to translate the game into the languages I know and then thanks to the help from close friends i managed to translate the game into the different languages seen in *Figure 2*.
 <div align="center">
 
   <p align="center">
