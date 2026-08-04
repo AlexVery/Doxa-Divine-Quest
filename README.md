@@ -86,7 +86,7 @@ If the wall size is too small, the wall is displayed tiny, but with this additio
 
 <div align="center">
   
-  Players can press "Enter" to hide the UI box displaying info about the zoom values on x and y axis (*Figure 7*).
+  Players can press "Space" to hide the UI box displaying info about the zoom values on x and y axis (*Figure 7*).
   
   <p align="center">
     <img width="625" height="385" alt="Image" src="https://github.com/user-attachments/assets/ac1919d4-7bdd-4f7e-bd41-1d665b92e7f3" />
